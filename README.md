@@ -2,7 +2,7 @@ APP Despesas Pessoais
 ==========
 ## A Flutter Project
 
-![](https://w1.pngwing.com/pngs/304/367/png-transparent-apple-budget-finance-expense-app-store-debt-money-financial-management-thumbnail.png)
+![](https://play-lh.googleusercontent.com/Qzu99Wi_p57U5HfS9_xKyETNZvG5-qWKviTNXmjtzK7JbaUEtj3IVTE6-oq8onkIFdhW)
 
 # Index
 
