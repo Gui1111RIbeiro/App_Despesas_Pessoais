@@ -21,7 +21,7 @@ APP Despesas Pessoais
 
 # Project Description
 
-This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. [Describe]
+This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. This project took longer than the others because I learned a lot of new things, such as manipulating user data, changing screens and even working with dates
 
 # 📁 Access the Project
 
@@ -44,8 +44,11 @@ This project was developed as part of my study on the flutter framework. I was c
 # 🔨 Project Features
 
 - `Feature 1`: icon image
-- `Feature 2`: split screen 
+- `Feature 2`: split screen
 - `Feature 3`: compatible for both devices IOS and Android
+- `Feature 4`: created a form to add to expenses
+- `Feature 5`: see expenses in graph and list
+- `Feature 6`: creates an average to show which days you spent more or less
 
 # ▶ Run the Project
 
