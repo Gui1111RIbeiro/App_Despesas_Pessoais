@@ -11,7 +11,7 @@ APP Despesas Pessoais
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Acesso ao Projeto](#-acesso-ao-projeto)
 * [Requisitos](#-requisitos)
-* [Recursos do Projeto](#-recursos-do-projeto)
+* [Funcionalidades do Projeto](#-funcionalidades-do-projeto)
 * [Executar o Projeto](#-executar-o-projeto)
 * [Autores](#-autores)
 
