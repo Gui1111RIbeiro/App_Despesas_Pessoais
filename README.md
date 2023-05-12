@@ -1,4 +1,4 @@
-APP Despesas Pessoais
+APP Personal Expenses
 ==========
 ## A Flutter Project
 
