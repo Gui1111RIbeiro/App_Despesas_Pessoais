@@ -1,70 +1,70 @@
-APP Personal Expenses
+APP Despesas Pessoais
 ==========
-## A Flutter Project
+## Um projeto Flutter
 
 ![](https://play-lh.googleusercontent.com/Qzu99Wi_p57U5HfS9_xKyETNZvG5-qWKviTNXmjtzK7JbaUEtj3IVTE6-oq8onkIFdhW)
 
-# Index
+# Índice
 
-* [Index](#index)
-* [Project Status](#project-status)
-* [Project Description](#project-description)
-* [Access the Project](#-access-the-project)
-* [Requirements](#-requirements)
-* [Project Features](#-project-features)
-* [Run the Project](#-run-the-project)
-* [Authors](#-authors)
+* [Índice](#índice)
+* [Status do Projeto](#status-do-projeto)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Acesso ao Projeto](#-acesso-ao-projeto)
+* [Requisitos](#-requisitos)
+* [Recursos do Projeto](#-recursos-do-projeto)
+* [Executar o Projeto](#-executar-o-projeto)
+* [Autores](#-autores)
 
-# Project Status
+# Status do Projeto
 
-![Badge Success](https://img.shields.io/badge/State-Success-brightgreen?style=for-the-badge)
+![Badge Success](https://img.shields.io/badge/Status-Sucesso-brightgreen?style=for-the-badge)
 
-# Project Description
+# Descrição do Projeto
 
-This project was developed as part of my study on the flutter framework. I was curious how to develop a mobile app, so I started to study and develop many apps to improve. This project took longer than the others because I learned a lot of new things, such as manipulating user data, changing screens and even working with dates
+Este projeto foi desenvolvido como parte do meu estudo no framework Flutter. Eu estava curioso para saber como desenvolver um aplicativo móvel, então comecei a estudar e desenvolver muitos aplicativos para melhorar. Este projeto levou mais tempo do que os outros porque eu aprendi muitas coisas novas, como manipular dados do usuário, mudar de telas e até mesmo trabalhar com datas.
 
-# 📁 Access the Project
+# 📁 Acesso ao Projeto
 
-**Is found in Github: "https://github.com/GuiQueirozRibeiro/App_Despesas_Pessoais"**
+**Está disponível no Github: "https://github.com/GuiQueirozRibeiro/App_Despesas_Pessoais"**
 
-# 📝 Requirements
+# 📝 Requisitos
 
-- ## Install the DartSDK in your machine
+- ## Instale o DartSDK na sua máquina
 
 **https://dart.dev/get-dart**
 
-- ## Install the FlutterSDK in your machine
+- ## Instale o FlutterSDK na sua máquina
 
 **https://docs.flutter.dev/get-started/install**
  
-- ## Install and configure AndroidStudio in your machine
+- ## Instale e configure o AndroidStudio na sua máquina
 
 **https://developer.android.com/studio**
 
-# 🔨 Project Features
+# 🔨 Funcionalidades do Projeto
 
-- `Feature 1`: icon image
-- `Feature 2`: split screen
-- `Feature 3`: compatible for both devices IOS and Android
-- `Feature 4`: created a form to add to expenses
-- `Feature 5`: see expenses in graph and list
-- `Feature 6`: creates an average to show which days you spent more or less
+- `Funcionalidade 1`: imagem do ícone
+- `Funcionalidade 2`: tela dividida
+- `Funcionalidade 3`: compatível para ambos dispositivos IOS e Android
+- `Funcionalidade 4`: criado um formulário para adicionar despesas
+- `Funcionalidade 5`: ver despesas em gráfico e lista
+- `Funcionalidade 6`: cria uma média para mostrar em quais dias você gastou mais ou menos
 
-# ▶ Run the Project
+# ▶ Executar o Projeto
 
-- `To execute the programm, use:`
+- `Para executar o programa, use:`
 
 ```console
 flutter run
 ```
 
-# 👨‍💻 Authors
+# 👨‍💻 Autores
 
 | [<img src="https://avatars.githubusercontent.com/u/70274921?s=400&u=c1688d6fcd13223bfe1093c6d16b3b6b646545fe&v=4" width=115><br><sub>Guilherme Queiroz Ribeiro</sub>](https://github.com/GuiQueirozRibeiro)
 | :---: |
 
-### End
+### Fim
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference
+Para obter ajuda para começar a desenvolver com o Flutter, consulte a
+[documentação online](https://docs.flutter.dev/), que oferece tutoriais,
+exemplos, orientações sobre desenvolvimento móvel e uma referência completa da API.
