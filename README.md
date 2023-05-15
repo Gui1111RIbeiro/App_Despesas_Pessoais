@@ -44,7 +44,7 @@ This project was developed as part of my study on the flutter framework. I was c
 # 🔨 Project Features
 
 - `Feature 1`: icon image
-- `Feature 2`: split screen
+- `Feature 2`: splash screen
 - `Feature 3`: compatible for both devices IOS and Android
 - `Feature 4`: created a form to add to expenses
 - `Feature 5`: see expenses in graph and list
