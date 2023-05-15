@@ -45,7 +45,7 @@ Este projeto foi desenvolvido como parte do meu estudo no framework Flutter. Eu 
 
 - `Funcionalidade 1`: imagem do ícone
 - `Funcionalidade 2`: tela dividida
-- `Funcionalidade 3`: compatível para ambos dispositivos IOS e Android
+- `Funcionalidade 3`: compatível com ambos dispositivos IOS e Android
 - `Funcionalidade 4`: criado um formulário para adicionar despesas
 - `Funcionalidade 5`: ver despesas em gráfico e lista
 - `Funcionalidade 6`: cria uma média para mostrar em quais dias você gastou mais ou menos
