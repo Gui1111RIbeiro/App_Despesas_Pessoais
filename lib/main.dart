@@ -167,13 +167,11 @@ class _MyHomePageState extends State<MyHomePage> {
                 children: actions,
               ),
             ),
-            debugShowCheckedModeBanner: false,
             child: bodyPage,
           )
         : Scaffold(
             appBar: appBar,
             body: bodyPage,
-            debugShowCheckedModeBanner: false,
             floatingActionButton: Platform.isIOS
                 ? Container()
                 : FloatingActionButton(
